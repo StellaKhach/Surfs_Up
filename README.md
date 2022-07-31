@@ -18,8 +18,11 @@ In June, we see that the mean temperature is about 75 degrees. In December, we s
 ![Screen Shot 2022-07-31 at 11 52 55 AM](https://user-images.githubusercontent.com/92186586/182041065-12feabdf-5c8d-4595-81a6-d1bd48e7008a.png)
 ![Screen Shot 2022-07-31 at 11 54 20 AM](https://user-images.githubusercontent.com/92186586/182041088-749493c1-5337-4a5d-8712-0b6365893aac.png)
 
-![June Temperatures](https://user-images.githubusercontent.com/92186586/182041238-f4357c0d-9518-4487-9901-6bcceef62cb4.png)
-![December](https://user-images.githubusercontent.com/92186586/182041239-dececb79-ac78-4f34-916c-eda4434f2d4e.png)
+Graph of June and December
+![June Temperatures](https://user-images.githubusercontent.com/92186586/182041394-6b55273f-3bf9-444b-9aa5-6b66ceb48fff.png)
+
+![December](https://user-images.githubusercontent.com/92186586/182041388-e48d79d3-983c-4557-a563-113fdcda55d9.png)
+
 
 
 # Summary
