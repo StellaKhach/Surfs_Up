@@ -21,13 +21,7 @@ In June, we see that the mean temperature is about 75 degrees. In December, we s
 Graph of June and December
 ![June Temperatures](https://user-images.githubusercontent.com/92186586/182041394-6b55273f-3bf9-444b-9aa5-6b66ceb48fff.png)
 
-![December](https://user-images.githubusercontent.com/92186586/182041388-e48d79d3-983c-4557-a563-113fdcda55d9.png)
-
-
 
 # Summary
 Using the data and graphs, we can see that the difference between December and June are reasonably close. The reason we used June and December was to see the semi-annual weather at both extremes of the year. Although slightly more precipitation is anticipated in December, we see that the steady patters support opening a year-round Surf and Ice Cream shop.
 
-
-
-# Summary 
