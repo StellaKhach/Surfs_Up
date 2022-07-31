@@ -18,7 +18,12 @@ In June, we see that the mean temperature is about 75 degrees. In December, we s
 ![Screen Shot 2022-07-31 at 11 52 55 AM](https://user-images.githubusercontent.com/92186586/182041065-12feabdf-5c8d-4595-81a6-d1bd48e7008a.png)
 ![Screen Shot 2022-07-31 at 11 54 20 AM](https://user-images.githubusercontent.com/92186586/182041088-749493c1-5337-4a5d-8712-0b6365893aac.png)
 
+![June Temperatures](https://user-images.githubusercontent.com/92186586/182041238-f4357c0d-9518-4487-9901-6bcceef62cb4.png)
+![December](https://user-images.githubusercontent.com/92186586/182041239-dececb79-ac78-4f34-916c-eda4434f2d4e.png)
 
+
+# Summary
+Using the data and graphs, we can see that the difference between December and June are reasonably close. The reason we used June and December was to see the semi-annual weather at both extremes of the year. Although slightly more precipitation is anticipated in December, we see that the steady patters support opening a year-round Surf and Ice Cream shop.
 
 
 
